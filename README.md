@@ -1,4 +1,4 @@
-<a href="https://omerfaruk0zkn.github.io/TodoApp/">Siteye gitmek için tıkla<a/>
+<a href="https://omerfaruk0zkn.github.io/TodoApp/">Siteye gitmek için tıkla</a>
 
 # Getting Started with Create React App
 
