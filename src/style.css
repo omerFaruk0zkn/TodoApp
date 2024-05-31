@@ -1,0 +1,29 @@
+body {
+  background-color: #f8d7da;
+}
+
+.todo-wrapper {
+  background-color: #cff4fc;
+}
+
+.App {
+  height: 100vh;
+}
+
+.input, .add-todo {
+  border-color: #f1aeb5;
+}
+
+.add-todo {
+  color: #dc3545;
+}
+
+.add-todo:hover {
+  background-color: #dc3545;
+  color: white;
+}
+
+.input-check {
+  width: 16px;
+  height: 16px;
+}
